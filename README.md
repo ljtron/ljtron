@@ -1,6 +1,7 @@
 # 👋 Hey there, I’m Lincoln Mcloud!
 
 I'm a **Computer Science graduate from Temple University** with a passion for building things that are creative, useful, or just plain fun.
+![Intro_readme_image (1)](https://github.com/user-attachments/assets/2afda065-5ffd-48fc-b5d6-6c7744f66568)
 
 ---
 
